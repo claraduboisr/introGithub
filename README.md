@@ -1,8 +1,3 @@
-# introGithub
-testing...
-
-
-
 # I know how to use [Markdown](https://www.markdownguide.org/)
 ## Because teacher CHEZLUI tought me 
 ### date: _October 2019_
