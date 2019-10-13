@@ -15,8 +15,8 @@ _tips for survival_
 
 You can also use bullet points like this:
 * Item 1
- * Item 2
-  * Item 3
+   * Item 2
+     * Item 3
 
 You can contact me through: <fakecdubois.ieu2017@student.ie.edu>
 ![Done with:](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/github-image-796x418.png)
