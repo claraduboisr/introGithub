@@ -10,7 +10,7 @@ testing...
 ##### Github is my new instagram
 ###### i can do up to six headings :)
 
-Learning [Markdown][Markdown] is [fun](https://cdnimgen.royanews.tv/imageserv/Size728Q40/news/20180326/13861.JPG)!! 
+Learning [Markdown][https://www.markdownguide.org/] is [fun](https://cdnimgen.royanews.tv/imageserv/Size728Q40/news/20180326/13861.JPG)!! 
 
 _tips for survival_
 1. Dont import .idea
@@ -20,9 +20,6 @@ _tips for survival_
 
 You can also use bullet points like this:
 * Item 1
-   * Item 2
-
-Or like this
-** Item 4
-*** Item 5
+ * Item 2
+  * Item 3
    
