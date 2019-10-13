@@ -15,6 +15,11 @@ _tips for survival_
 
 You can also use bullet points like this:
 * Item 1
+* Item 2
+* Item 3
+
+Or like this:
+* Item 1
    * Item 2
      * Item 3
 
