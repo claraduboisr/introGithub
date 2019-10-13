@@ -16,10 +16,11 @@ _tips for survival_
 1. Dont import .idea
 2. Practice at home
 3. Always **_commit_**!
-> "Chelu said it"
+> Chelu said it
 
 You can also use bullet points like this:
 * Item 1
  * Item 2
   * Item 3
    
+![Done with:](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/github-image-796x418.png)
